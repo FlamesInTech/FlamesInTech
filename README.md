@@ -15,6 +15,9 @@ Frontend Developer || WordPress Developer
 ---
 [![](https://visitcount.itsvg.in/api?id=flamesintech&icon=0&color=0)](https://visitcount.itsvg.in)
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
