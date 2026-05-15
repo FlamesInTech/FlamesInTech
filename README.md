@@ -20,11 +20,11 @@ Frontend Developer || WordPress Developer
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [You Have Tech Skills. So Why Are You Still Broke?](https://medium.com/startit-up/you-have-tech-skills-so-why-are-you-still-broke-80c6c9f1e69e?source=rss-3ceed1cd7dea------2)
+- [How I Would Make My First $1,000 Online in 30 Days Using Tech Skills and AI Tools](https://flamesintech.medium.com/how-i-would-make-my-first-1-000-online-in-30-days-using-tech-skills-and-ai-tools-c8772acdc2a1?source=rss-3ceed1cd7dea------2)
+- [10 AI Tools Every Developer Must Be Using Right Now &lpar;If You Want to Stay Relevant in 2026&rpar;](https://flamesintech.medium.com/10-ai-tools-every-developer-must-be-using-right-now-if-you-want-to-stay-relevant-in-2026-e96ce7988aed?source=rss-3ceed1cd7dea------2)
+- [You Have Tech Skills. So Why Are You Still Broke?](https://flamesintech.medium.com/you-have-tech-skills-so-why-are-you-still-broke-80c6c9f1e69e?source=rss-3ceed1cd7dea------2)
 - [How to Make the Most of Financial Windows Before They Close](https://flamesintech.medium.com/how-to-make-the-most-of-financial-windows-before-they-close-3e3268c343db?source=rss-3ceed1cd7dea------2)
 - [Frontend vs. Backend Development: Understanding the Differences](https://flamesintech.medium.com/frontend-vs-backend-development-understanding-the-differences-9efd0cbc5656?source=rss-3ceed1cd7dea------2)
-- [How to Craft Engaging Landing Page Design](https://flamesintech.medium.com/how-to-craft-engaging-landing-page-design-8247a4d8a605?source=rss-3ceed1cd7dea------2)
-- [Building Strong Client-Developer Relationships in Web Development](https://flamesintech.medium.com/building-strong-client-developer-relationships-in-web-development-b3b44b74f2b6?source=rss-3ceed1cd7dea------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 😂 Random Dev Meme
