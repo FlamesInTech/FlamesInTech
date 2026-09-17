@@ -20,11 +20,11 @@ Frontend Developer || WordPress Developer
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 1 of 150 Days to $10K a Month, and I Still Don’t Know What I’m Building](https://flamesintech.medium.com/day-1-of-150-days-to-10k-a-month-and-i-still-dont-know-what-i-m-building-d50d07bdc9f4?source=rss-3ceed1cd7dea------2)
 - [Software Is Becoming Easy to Build. So What Actually Sells Now?](https://flamesintech.medium.com/software-is-becoming-easy-to-build-so-what-actually-sells-now-bd767cbeda72?source=rss-3ceed1cd7dea------2)
 - [The Hardest Part of Building a SaaS Isn’t Writing Code. It’s Knowing When to Ship.](https://flamesintech.medium.com/the-hardest-part-of-building-a-saas-isnt-writing-code-it-s-knowing-when-to-ship-d04e8fd1d739?source=rss-3ceed1cd7dea------2)
 - [How I Would Make My First $1,000 Online in 30 Days Using Tech Skills and AI Tools](https://flamesintech.medium.com/how-i-would-make-my-first-1-000-online-in-30-days-using-tech-skills-and-ai-tools-c8772acdc2a1?source=rss-3ceed1cd7dea------2)
 - [10 AI Tools Every Developer Must Be Using Right Now &lpar;If You Want to Stay Relevant in 2026&rpar;](https://flamesintech.medium.com/10-ai-tools-every-developer-must-be-using-right-now-if-you-want-to-stay-relevant-in-2026-e96ce7988aed?source=rss-3ceed1cd7dea------2)
-- [You Have Tech Skills. So Why Are You Still Broke?](https://flamesintech.medium.com/you-have-tech-skills-so-why-are-you-still-broke-80c6c9f1e69e?source=rss-3ceed1cd7dea------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 😂 Random Dev Meme
