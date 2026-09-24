@@ -20,11 +20,11 @@ Frontend Developer || WordPress Developer
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 7 of Building ShureDesk to $10,000/Month](https://flamesintech.medium.com/day-7-of-building-shuredesk-to-10-000-month-e129f37ab875?source=rss-3ceed1cd7dea------2)
 - [Building Is Becoming the Easy Part](https://flamesintech.medium.com/building-is-becoming-the-easy-part-ab0a7ac2251f?source=rss-3ceed1cd7dea------2)
 - [Day 5: I’m Building an AI Front Desk for Businesses](https://flamesintech.medium.com/day-5-im-building-an-ai-front-desk-for-businesses-4ab9bccc8f7b?source=rss-3ceed1cd7dea------2)
 - [Two Mistakes That Killed My Views In The First 3 Days](https://flamesintech.medium.com/two-mistakes-that-killed-my-views-in-the-first-3-days-fe00df446c54?source=rss-3ceed1cd7dea------2)
 - [Day 1 of 150 Days to $10K a Month, and I Still Don’t Know What I’m Building](https://flamesintech.medium.com/day-1-of-150-days-to-10k-a-month-and-i-still-dont-know-what-i-m-building-d50d07bdc9f4?source=rss-3ceed1cd7dea------2)
-- [Software Is Becoming Easy to Build. So What Actually Sells Now?](https://flamesintech.medium.com/software-is-becoming-easy-to-build-so-what-actually-sells-now-bd767cbeda72?source=rss-3ceed1cd7dea------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 😂 Random Dev Meme
