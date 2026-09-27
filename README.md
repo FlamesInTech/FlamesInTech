@@ -20,11 +20,11 @@ Frontend Developer || WordPress Developer
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I’m Building an AI That’s Allowed to Say “I Don’t Know”](https://flamesintech.medium.com/why-im-building-an-ai-that-s-allowed-to-say-i-don-t-know-86f6153afe89?source=rss-3ceed1cd7dea------2)
 - [The Day I Taught an AI to Say “I Don’t Know”](https://flamesintech.medium.com/the-day-i-taught-an-ai-to-say-i-dont-know-e4f2b7fb7a1a?source=rss-3ceed1cd7dea------2)
 - [Day 7 of Building ShureDesk to $10,000/Month](https://flamesintech.medium.com/day-7-of-building-shuredesk-to-10-000-month-e129f37ab875?source=rss-3ceed1cd7dea------2)
 - [Building Is Becoming the Easy Part](https://flamesintech.medium.com/building-is-becoming-the-easy-part-ab0a7ac2251f?source=rss-3ceed1cd7dea------2)
 - [Day 5: I’m Building an AI Front Desk for Businesses](https://flamesintech.medium.com/day-5-im-building-an-ai-front-desk-for-businesses-4ab9bccc8f7b?source=rss-3ceed1cd7dea------2)
-- [Two Mistakes That Killed My Views In The First 3 Days](https://flamesintech.medium.com/two-mistakes-that-killed-my-views-in-the-first-3-days-fe00df446c54?source=rss-3ceed1cd7dea------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 😂 Random Dev Meme
